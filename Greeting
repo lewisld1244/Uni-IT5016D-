@@ -1,0 +1,15 @@
+2. original_codes/greet_user.py 
+
+python 
+
+def greet(name): 
+
+    """Print a greeting message.""" 
+
+    print(f"Hello, {name}!") 
+
+  
+
+Example usage: 
+
+greet("Alice")  Output: Hello, Alice! 
