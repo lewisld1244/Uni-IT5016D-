@@ -1,0 +1,7 @@
+5. interesting_snippets/simple_list.py 
+
+python 
+
+my_list = [1, 2, 3, 4, 5] 
+
+print("My List:", my_list)  Output: My List: [1, 2, 3, 4, 5] 
