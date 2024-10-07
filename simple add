@@ -1,0 +1,17 @@
+1. original_codes/simple_add.py 
+
+python 
+
+def add(x, y): 
+
+    """Return the sum of x and y.""" 
+
+    return x + y 
+
+  
+
+Example usage: 
+
+result = add(3, 5) 
+
+print("Sum:", result)  Output: Sum: 8 
