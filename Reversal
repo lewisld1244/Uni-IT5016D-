@@ -1,0 +1,17 @@
+4. inspired_codes/inspired_reverse.py 
+
+python 
+
+def reverse_string(s): 
+
+    """Return the reversed version of the string.""" 
+
+    return s[::-1] 
+
+  
+
+Example usage: 
+
+reversed_str = reverse_string("hello") 
+
+print("Reversed:", reversed_str)  Output: Reversed: olleh
